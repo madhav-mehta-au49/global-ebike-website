@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Tubeless tyre">
+  <circle cx="200" cy="145" r="98" fill="#0F1B3D"/>
+  <circle cx="200" cy="145" r="70" fill="#eaf4ff" stroke="#ffffff" stroke-width="6"/>
+  <circle cx="200" cy="145" r="54" fill="#ffffff" stroke="#0F1B3D" stroke-width="6"/>
+  <circle cx="200" cy="145" r="16" fill="#F9B417" stroke="#0F1B3D" stroke-width="5"/>
+  <g stroke="#F9B417" stroke-width="5" opacity="0.8">
+    <path d="M200 47 V67"/><path d="M200 223 V243"/><path d="M102 145 H122"/><path d="M278 145 H298"/>
+    <path d="M131 76 L145 90"/><path d="M255 200 L269 214"/><path d="M269 76 L255 90"/><path d="M145 200 L131 214"/>
+  </g>
+  <text x="200" y="272" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#0F1B3D">TUBELESS TYRES</text>
+</svg>

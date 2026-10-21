@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-label="VoltRide E-Bikes showroom interior">
+  <defs>
+    <linearGradient id="wall" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#eaf4ff"/>
+      <stop offset="1" stop-color="#d6e9fb"/>
+    </linearGradient>
+    <linearGradient id="floor" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#dbe8f7"/>
+    </linearGradient>
+    <linearGradient id="body" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#4CC46A"/>
+      <stop offset="1" stop-color="#1e8e3e"/>
+    </linearGradient>
+    <linearGradient id="body2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F9B417"/>
+      <stop offset="1" stop-color="#C98A1B"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1600" height="900" fill="url(#wall)"/>
+  <rect y="690" width="1600" height="210" fill="url(#floor)"/>
+  <path d="M0 690 H1600" stroke="#0F1B3D" stroke-width="4" opacity="0.15"/>
+
+  <!-- back wall sign -->
+  <rect x="440" y="70" width="720" height="150" rx="24" fill="#071440"/>
+  <text x="800" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="46" font-weight="900" fill="#FFD86B" letter-spacing="6">VOLTRIDE E-BIKES</text>
+  <text x="800" y="188" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="600" fill="#ffffff" letter-spacing="5">ELECTRIC BIKE SHOWROOM · BHAVNAGAR</text>
+
+  <!-- windows -->
+  <g fill="#cfe4fb" stroke="#0F1B3D" stroke-width="5">
+    <rect x="70" y="250" width="330" height="330" rx="12"/>
+    <rect x="1200" y="250" width="330" height="330" rx="12"/>
+  </g>
+  <g stroke="#ffffff" stroke-width="6" opacity="0.7">
+    <path d="M235 250 V580 M70 415 H400"/>
+    <path d="M1365 250 V580 M1200 415 H1530"/>
+  </g>
+
+  <!-- ceiling lights -->
+  <g fill="#FFD86B">
+    <circle cx="520" cy="250" r="16"/><circle cx="800" cy="250" r="16"/><circle cx="1080" cy="250" r="16"/>
+  </g>
+  <g stroke="#F9B417" stroke-width="2" opacity="0.35">
+    <path d="M520 266 V690"/><path d="M800 266 V690"/><path d="M1080 266 V690"/>
+  </g>
+
+  <!-- center platform -->
+  <ellipse cx="800" cy="760" rx="330" ry="58" fill="#0F1B3D" opacity="0.12"/>
+  <rect x="560" y="710" width="480" height="58" rx="29" fill="#0F1B3D" opacity="0.08"/>
+
+  <!-- helper person -->
+  <g>
+    <circle cx="500" cy="470" r="34" fill="#0F1B3D"/>
+    <path d="M450 690 Q450 555 500 555 Q550 555 550 690 Z" fill="#0F1B3D"/>
+    <path d="M470 585 Q500 640 530 585" fill="none" stroke="#F9B417" stroke-width="6" stroke-linecap="round"/>
+    <circle cx="500" cy="470" r="34" fill="none" stroke="#F9B417" stroke-width="4"/>
+  </g>
+
+  <!-- main e-scooter -->
+  <g transform="translate(560 380) scale(1.2)">
+    <circle cx="170" cy="300" r="70" fill="#0F1B3D"/><circle cx="170" cy="300" r="52" fill="#ffffff"/><circle cx="170" cy="300" r="45" fill="none" stroke="#F9B417" stroke-width="6"/><circle cx="170" cy="300" r="16" fill="#0F1B3D"/>
+    <circle cx="440" cy="300" r="70" fill="#0F1B3D"/><circle cx="440" cy="300" r="52" fill="#ffffff"/><circle cx="440" cy="300" r="45" fill="none" stroke="#F9B417" stroke-width="6"/><circle cx="440" cy="300" r="16" fill="#0F1B3D"/>
+    <path d="M115 270 Q115 215 172 215 L282 215 Q314 215 330 244 L340 268 L204 268 Q152 268 130 292 Z" fill="url(#body)" stroke="#0F1B3D" stroke-width="6" stroke-linejoin="round"/>
+    <path d="M344 262 Q360 206 396 176 L428 160 L444 192 L414 238 Q398 264 372 276 Z" fill="url(#body)" stroke="#0F1B3D" stroke-width="6" stroke-linejoin="round"/>
+    <path d="M122 212 Q164 188 238 194 L244 216 L138 224 Z" fill="#0F1B3D"/>
+    <path d="M424 164 L462 144" stroke="#0F1B3D" stroke-width="10" stroke-linecap="round"/>
+    <circle cx="444" cy="198" r="15" fill="#FFD86B" stroke="#0F1B3D" stroke-width="5"/>
+    <rect x="246" y="250" width="94" height="36" rx="10" fill="#FFD86B" stroke="#0F1B3D" stroke-width="5"/>
+    <path d="M218 286 L338 286 Q354 286 354 302 L354 316 L208 316 Q196 316 196 302 Z" fill="#0F1B3D"/>
+    <path d="M92 296 A78 78 0 0 1 248 296" fill="none" stroke="#0F1B3D" stroke-width="7"/>
+    <path d="M362 296 A78 78 0 0 1 518 296" fill="none" stroke="#0F1B3D" stroke-width="7"/>
+  </g>
+
+  <!-- side scooter left -->
+  <g transform="translate(120 510) scale(0.62)">
+    <circle cx="170" cy="300" r="70" fill="#0F1B3D"/><circle cx="170" cy="300" r="52" fill="#ffffff"/><circle cx="170" cy="300" r="45" fill="none" stroke="#F9B417" stroke-width="6"/><circle cx="170" cy="300" r="16" fill="#0F1B3D"/>
+    <circle cx="440" cy="300" r="70" fill="#0F1B3D"/><circle cx="440" cy="300" r="52" fill="#ffffff"/><circle cx="440" cy="300" r="45" fill="none" stroke="#F9B417" stroke-width="6"/><circle cx="440" cy="300" r="16" fill="#0F1B3D"/>
+    <path d="M115 270 Q115 215 172 215 L282 215 Q314 215 330 244 L340 268 L204 268 Q152 268 130 292 Z" fill="url(#body2)" stroke="#0F1B3D" stroke-width="6" stroke-linejoin="round"/>
+    <path d="M344 262 Q360 206 396 176 L428 160 L444 192 L414 238 Q398 264 372 276 Z" fill="url(#body2)" stroke="#0F1B3D" stroke-width="6" stroke-linejoin="round"/>
+    <path d="M122 212 Q164 188 238 194 L244 216 L138 224 Z" fill="#0F1B3D"/>
+    <rect x="246" y="250" width="94" height="36" rx="10" fill="#0F1B3D" stroke="#0F1B3D" stroke-width="5"/>
+    <path d="M218 286 L338 286 Q354 286 354 302 L354 316 L208 316 Q196 316 196 302 Z" fill="#0F1B3D"/>
+  </g>
+
+  <!-- side scooter right -->
+  <g transform="translate(1140 510) scale(0.62)">
+    <circle cx="170" cy="300" r="70" fill="#0F1B3D"/><circle cx="170" cy="300" r="52" fill="#ffffff"/><circle cx="170" cy="300" r="45" fill="none" stroke="#F9B417" stroke-width="6"/><circle cx="170" cy="300" r="16" fill="#0F1B3D"/>
+    <circle cx="440" cy="300" r="70" fill="#0F1B3D"/><circle cx="440" cy="300" r="52" fill="#ffffff"/><circle cx="440" cy="300" r="45" fill="none" stroke="#F9B417" stroke-width="6"/><circle cx="440" cy="300" r="16" fill="#0F1B3D"/>
+    <path d="M108 270 Q108 212 168 212 L286 212 Q320 212 338 246 L348 270 L202 270 Q150 270 126 294 Z" fill="#1e5bd8" stroke="#0F1B3D" stroke-width="6" stroke-linejoin="round"/>
+    <path d="M350 264 Q366 204 402 174 L434 158 L450 192 L420 238 Q404 264 378 278 Z" fill="#1e5bd8" stroke="#0F1B3D" stroke-width="6" stroke-linejoin="round"/>
+    <path d="M105 208 Q150 178 250 184 L256 214 L122 220 Z" fill="#0F1B3D"/>
+    <rect x="246" y="250" width="96" height="36" rx="10" fill="#FFD86B" stroke="#0F1B3D" stroke-width="5"/>
+    <path d="M216 286 L342 286 Q358 286 358 302 L358 316 L206 316 Q194 316 194 302 Z" fill="#0F1B3D"/>
+  </g>
+
+  <!-- plants -->
+  <g transform="translate(1420 600)">
+    <rect x="24" y="100" width="52" height="60" rx="8" fill="#0F1B3D"/>
+    <path d="M50 100 Q10 50 48 10 Q70 55 50 100" fill="#1e8e3e"/>
+    <path d="M50 100 Q90 60 92 20 Q60 55 50 100" fill="#4CC46A"/>
+  </g>
+  <g transform="translate(100 600)">
+    <rect x="24" y="100" width="52" height="60" rx="8" fill="#0F1B3D"/>
+    <path d="M50 100 Q10 50 48 10 Q70 55 50 100" fill="#1e8e3e"/>
+    <path d="M50 100 Q90 60 92 20 Q60 55 50 100" fill="#4CC46A"/>
+  </g>
+
+  <text x="800" y="860" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#0F1B3D" opacity="0.7">SHOWROOM · BHAVNAGAR</text>
+</svg>

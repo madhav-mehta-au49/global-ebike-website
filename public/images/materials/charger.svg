@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Fast charger">
+  <rect x="70" y="95" width="190" height="130" rx="20" fill="#eaf4ff" stroke="#0F1B3D" stroke-width="8"/>
+  <rect x="100" y="125" width="130" height="70" rx="10" fill="#ffffff" stroke="#0F1B3D" stroke-width="4"/>
+  <path d="M130 160 h20 l-7 12 h16 l-26 24 7 -21 h-14 z" fill="#F9B417" stroke="#0F1B3D" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M260 160 C310 160 300 105 340 105" fill="none" stroke="#0F1B3D" stroke-width="7" stroke-linecap="round"/>
+  <rect x="332" y="88" width="34" height="34" rx="8" fill="#F9B417" stroke="#0F1B3D" stroke-width="5"/>
+  <path d="M344 122 V142 M334 132 H354" stroke="#0F1B3D" stroke-width="4" stroke-linecap="round"/>
+  <text x="200" y="272" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#0F1B3D">FAST CHARGER</text>
+</svg>

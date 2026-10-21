@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-label="VoltRide award ceremony">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#071440"/>
+      <stop offset="0.6" stop-color="#0A1A4E"/>
+      <stop offset="1" stop-color="#0B1F5C"/>
+    </linearGradient>
+    <radialGradient id="spot" cx="0.5" cy="0.25" r="0.55">
+      <stop offset="0" stop-color="#FFD86B" stop-opacity="0.45"/>
+      <stop offset="0.5" stop-color="#F9B417" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#071440" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFD86B"/>
+      <stop offset="1" stop-color="#C98A1B"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <rect width="1600" height="900" fill="url(#spot)"/>
+
+  <!-- confetti -->
+  <g fill="#FFD86B" opacity="0.8">
+    <circle cx="220" cy="170" r="4"/><circle cx="340" cy="260" r="3"/><circle cx="470" cy="140" r="4"/>
+    <circle cx="1140" cy="180" r="4"/><circle cx="1260" cy="260" r="3"/><circle cx="1390" cy="150" r="4"/>
+    <circle cx="780" cy="120" r="3"/><circle cx="870" cy="200" r="4"/><circle cx="600" cy="230" r="3"/>
+  </g>
+
+  <!-- stage -->
+  <rect x="0" y="690" width="1600" height="210" fill="#071440"/>
+  <rect x="0" y="680" width="1600" height="10" fill="#F9B417" opacity="0.6"/>
+  <path d="M0 900 H1600" stroke="#4CC46A" stroke-width="4" opacity="0.3"/>
+
+  <!-- curtains -->
+  <path d="M0 0 H260 Q220 340 260 680 H0 Z" fill="#0b1f5c" opacity="0.85"/>
+  <path d="M1600 0 H1340 Q1380 340 1340 680 H1600 Z" fill="#0b1f5c" opacity="0.85"/>
+
+  <!-- banner -->
+  <rect x="470" y="60" width="660" height="130" rx="20" fill="#0b1f5c" stroke="#F9B417" stroke-width="4"/>
+  <text x="800" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="40" font-weight="900" fill="#FFD86B" letter-spacing="4">BEST EV SHOWROOM</text>
+  <text x="800" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#ffffff" letter-spacing="8">2026</text>
+
+  <!-- podium -->
+  <rect x="650" y="610" width="300" height="100" rx="10" fill="#0b1f5c" stroke="#F9B417" stroke-width="4"/>
+  <text x="800" y="675" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="800" fill="#FFD86B" letter-spacing="3">VOLTRIDE</text>
+
+  <!-- trophy -->
+  <g transform="translate(650 330) scale(1.0)">
+    <path d="M80 30 H220 V150 Q220 220 150 240 Q80 220 80 150 Z" fill="url(#gold)" stroke="#071440" stroke-width="6"/>
+    <path d="M80 55 H40 Q10 55 10 90 Q10 130 80 140" fill="none" stroke="url(#gold)" stroke-width="14"/>
+    <path d="M220 55 H260 Q290 55 290 90 Q290 130 220 140" fill="none" stroke="url(#gold)" stroke-width="14"/>
+    <rect x="130" y="235" width="40" height="60" fill="url(#gold)" stroke="#071440" stroke-width="5"/>
+    <rect x="70" y="295" width="160" height="34" rx="10" fill="url(#gold)" stroke="#071440" stroke-width="5"/>
+    <path d="M150 80 l12 26 28 3 -21 19 6 28 -25 -14 -25 14 6 -28 -21 -19 28 -3 z" fill="#071440"/>
+  </g>
+
+  <!-- people silhouettes -->
+  <g fill="#071440">
+    <circle cx="430" cy="590" r="34"/><path d="M380 690 Q380 630 430 630 Q480 630 480 690 Z"/>
+    <circle cx="560" cy="610" r="30"/><path d="M515 690 Q515 640 560 640 Q605 640 605 690 Z"/>
+    <circle cx="1040" cy="610" r="30"/><path d="M995 690 Q995 640 1040 640 Q1085 640 1085 690 Z"/>
+    <circle cx="1170" cy="590" r="34"/><path d="M1120 690 Q1120 630 1170 630 Q1220 630 1220 690 Z"/>
+  </g>
+
+  <!-- audience foreground -->
+  <g fill="#071440" opacity="0.95">
+    <circle cx="150" cy="760" r="42"/><circle cx="300" cy="780" r="38"/><circle cx="460" cy="770" r="40"/>
+    <circle cx="630" cy="790" r="36"/><circle cx="800" cy="780" r="42"/><circle cx="970" cy="790" r="36"/>
+    <circle cx="1140" cy="770" r="40"/><circle cx="1300" cy="780" r="38"/><circle cx="1450" cy="760" r="42"/>
+  </g>
+</svg>

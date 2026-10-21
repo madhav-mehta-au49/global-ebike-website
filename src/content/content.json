@@ -1,0 +1,224 @@
+{
+  "projects": [
+    {
+      "id": "city-lite-bhavnagar",
+      "model": "City Lite",
+      "modelGu": "સિટી લાઇટ",
+      "area": "Kaliyabid, Bhavnagar",
+      "areaGu": "કાલિયાબીડ, ભાવનગર",
+      "month": "Oct",
+      "year": 2026,
+      "rangeKm": 60,
+      "category": "City",
+      "region": "Bhavnagar",
+      "image": "/images/projects/bike-1.svg",
+      "w": 1200,
+      "h": 900
+    },
+    {
+      "id": "urban-pro-talaja",
+      "model": "Urban Pro",
+      "modelGu": "અર્બન પ્રો",
+      "area": "Talaja",
+      "areaGu": "તળાજા",
+      "month": "Sep",
+      "year": 2026,
+      "rangeKm": 80,
+      "category": "City",
+      "region": "Talaja",
+      "image": "/images/projects/bike-2.svg",
+      "w": 1200,
+      "h": 900
+    },
+    {
+      "id": "sport-x-bhavnagar",
+      "model": "Sport X",
+      "modelGu": "સ્પોર્ટ X",
+      "area": "Bharatnagar, Bhavnagar",
+      "areaGu": "ભરતનગર, ભાવનગર",
+      "month": "Sep",
+      "year": 2026,
+      "rangeKm": 100,
+      "category": "Sport",
+      "region": "Bhavnagar",
+      "image": "/images/projects/bike-3.svg",
+      "w": 1200,
+      "h": 900
+    },
+    {
+      "id": "cargo-max-talaja",
+      "model": "Cargo Max",
+      "modelGu": "કાર્ગો મેક્સ",
+      "area": "Talaja",
+      "areaGu": "તળાજા",
+      "month": "Aug",
+      "year": 2026,
+      "rangeKm": 90,
+      "category": "Cargo",
+      "region": "Talaja",
+      "image": "/images/projects/bike-4.svg",
+      "w": 1200,
+      "h": 900
+    },
+    {
+      "id": "family-plus-bhavnagar",
+      "model": "Family Plus",
+      "modelGu": "ફેમિલી પ્લસ",
+      "area": "Bhavnagar",
+      "areaGu": "ભાવનગર",
+      "month": "Aug",
+      "year": 2026,
+      "rangeKm": 75,
+      "category": "Family",
+      "region": "Bhavnagar",
+      "image": "/images/projects/bike-5.svg",
+      "w": 1200,
+      "h": 900
+    },
+    {
+      "id": "ranger-talaja",
+      "model": "Ranger Off-road",
+      "modelGu": "રેન્જર ઓફ-રોડ",
+      "area": "Talaja",
+      "areaGu": "તળાજા",
+      "month": "Jul",
+      "year": 2026,
+      "rangeKm": 110,
+      "category": "Sport",
+      "region": "Talaja",
+      "image": "/images/projects/bike-6.svg",
+      "w": 1200,
+      "h": 900
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "t1",
+      "initials": "R.P.",
+      "area": "Talaja",
+      "areaGu": "તળાજા",
+      "model": "City Lite",
+      "stars": 5,
+      "text": "My daily petrol cost of Rs 120 is now just Rs 15 of charging. Smooth ride and quick service.",
+      "textGu": "રોજનો ₹120 પેટ્રોલ ખર્ચ હવે ચાર્જિંગમાં ₹15 થઈ ગયો. રાઇડ સ્મૂથ છે અને સર્વિસ ઝડપી છે."
+    },
+    {
+      "id": "t2",
+      "initials": "J.B.",
+      "area": "Bhavnagar",
+      "areaGu": "ભાવનગર",
+      "model": "Urban Pro",
+      "stars": 5,
+      "text": "From test ride to delivery everything was done in two days. Battery range is exactly as promised.",
+      "textGu": "ટેસ્ટ રાઇડથી ડિલિવરી સુધી બધું બે દિવસમાં થઈ ગયું. બેટરી રેન્જ વચન પ્રમાણે જ છે."
+    },
+    {
+      "id": "t3",
+      "initials": "S.K.",
+      "area": "Kaliyabid",
+      "areaGu": "કાલિયાબીડ",
+      "model": "Sport X",
+      "stars": 5,
+      "text": "Powerful pickup and strong build quality. The showroom team explained every feature patiently.",
+      "textGu": "જોરદાર પિકઅપ અને મજબૂત બિલ્ડ ક્વોલિટી. શોરૂમ ટીમે દરેક ફીચર ધીરજથી સમજાવ્યું."
+    },
+    {
+      "id": "t4",
+      "initials": "M.P.",
+      "area": "Bharatnagar",
+      "areaGu": "ભરતનગર",
+      "model": "Family Plus",
+      "stars": 5,
+      "text": "Best e-bike showroom in Bhavnagar. Genuine price, proper warranty and doorstep service.",
+      "textGu": "ભાવનગરનું શ્રેષ્ઠ ઈ-બાઈક શોરૂમ. યોગ્ય કિંમત, પૂરી વોરંટી અને ઘરે સર્વિસ."
+    }
+  ],
+  "awards": {
+    "trophy": "/images/awards/events/trophy.svg",
+    "eventPhotos": [
+      { "src": "/images/awards/events/showroom-1.svg", "w": 1200, "h": 1600 },
+      { "src": "/images/awards/events/showroom-2.svg", "w": 1050, "h": 1348 },
+      { "src": "/images/awards/events/award-ceremony.svg", "w": 1600, "h": 900 },
+      { "src": "/images/awards/events/showroom-4.svg", "w": 661, "h": 1600 }
+    ],
+    "newspaperAds": [
+      { "src": "/images/awards/newspaper/news-ad-1.svg", "w": 1255, "h": 1600 },
+      { "src": "/images/awards/newspaper/news-ad-2.svg", "w": 732, "h": 1294 },
+      { "src": "/images/awards/newspaper/news-ad-3.svg", "w": 724, "h": 1280 },
+      { "src": "/images/awards/newspaper/news-ad-4.svg", "w": 900, "h": 1600 },
+      { "src": "/images/awards/newspaper/news-ad-5.svg", "w": 819, "h": 1280 }
+    ]
+  },
+  "materials": [
+    {
+      "id": "m1",
+      "name": "Battery Pack",
+      "nameGu": "બેટરી પેક",
+      "brand": "48V / 60V lithium-ion, LG cells",
+      "image": "/images/materials/battery.svg"
+    },
+    {
+      "id": "m2",
+      "name": "BLDC Motor",
+      "nameGu": "BLDC મોટર",
+      "brand": "250W – 1500W hub motor",
+      "image": "/images/materials/motor.svg"
+    },
+    {
+      "id": "m3",
+      "name": "Smart Controller",
+      "nameGu": "સ્માર્ટ કંટ્રોલર",
+      "brand": "Sine-wave with overload protection",
+      "image": "/images/materials/controller.svg"
+    },
+    {
+      "id": "m4",
+      "name": "Fast Charger",
+      "nameGu": "ફાસ્ટ ચાર્જર",
+      "brand": "3A / 5A auto cut-off",
+      "image": "/images/materials/charger.svg"
+    },
+    {
+      "id": "m5",
+      "name": "Digital Display",
+      "nameGu": "ડિજિટલ ડિસ્પ્લે",
+      "brand": "Speed, battery, trip and mode",
+      "image": "/images/materials/display.svg"
+    },
+    {
+      "id": "m6",
+      "name": "Disc Brakes",
+      "nameGu": "ડિસ્ક બ્રેક",
+      "brand": "Front & rear disc with CBS",
+      "image": "/images/materials/brakes.svg"
+    },
+    {
+      "id": "m7",
+      "name": "Tubeless Tyres",
+      "nameGu": "ટ્યુબલેસ ટાયર",
+      "brand": "10\" / 12\" puncture-resistant",
+      "image": "/images/materials/tyres.svg"
+    },
+    {
+      "id": "m8",
+      "name": "LED Lighting",
+      "nameGu": "LED લાઇટિંગ",
+      "brand": "Headlamp, tail lamp, indicators",
+      "image": "/images/materials/lights.svg"
+    },
+    {
+      "id": "m9",
+      "name": "Comfort Seat",
+      "nameGu": "કમ્ફર્ટ સીટ",
+      "brand": "Dual seat with under-seat storage",
+      "image": "/images/materials/seat.svg"
+    },
+    {
+      "id": "m10",
+      "name": "Keyless Start",
+      "nameGu": "કીલેસ સ્ટાર્ટ",
+      "brand": "Remote lock and anti-theft alarm",
+      "image": "/images/materials/keyless.svg"
+    }
+  ]
+}

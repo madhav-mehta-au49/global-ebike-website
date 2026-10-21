@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" role="img" aria-label="VoltRide Cargo Max electric cargo scooter">
+  <defs>
+    <linearGradient id="body" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#22a24a"/>
+      <stop offset="1" stop-color="#0b1f5c"/>
+    </linearGradient>
+  </defs>
+  <ellipse cx="300" cy="358" rx="225" ry="16" fill="#0F1B3D" opacity="0.12"/>
+  <circle cx="165" cy="300" r="70" fill="#0F1B3D"/><circle cx="165" cy="300" r="52" fill="#ffffff"/><circle cx="165" cy="300" r="45" fill="none" stroke="#F9B417" stroke-width="6"/><circle cx="165" cy="300" r="16" fill="#0F1B3D"/>
+  <circle cx="445" cy="300" r="70" fill="#0F1B3D"/><circle cx="445" cy="300" r="52" fill="#ffffff"/><circle cx="445" cy="300" r="45" fill="none" stroke="#F9B417" stroke-width="6"/><circle cx="445" cy="300" r="16" fill="#0F1B3D"/>
+  <path d="M105 268 Q105 212 165 212 L285 212 Q320 212 338 246 L348 270 L200 270 Q148 270 124 294 Z" fill="url(#body)" stroke="#0F1B3D" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M350 264 Q366 204 402 174 L434 158 L450 192 L420 238 Q404 264 378 278 Z" fill="url(#body)" stroke="#0F1B3D" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M112 210 Q160 184 240 190 L246 214 L128 222 Z" fill="#0F1B3D"/>
+  <path d="M430 162 L468 142" stroke="#0F1B3D" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="472" cy="140" r="7" fill="#FFD86B"/>
+  <circle cx="450" cy="198" r="15" fill="#FFD86B" stroke="#0F1B3D" stroke-width="5"/>
+  <rect x="246" y="250" width="96" height="36" rx="10" fill="#FFD86B" stroke="#0F1B3D" stroke-width="5"/>
+  <path d="M264 268 h18 l-6 10 h14 l-22 20 6 -18 h-12 z" fill="#0F1B3D"/>
+  <path d="M216 286 L342 286 Q358 286 358 302 L358 316 L206 316 Q194 316 194 302 Z" fill="#0F1B3D"/>
+  <path d="M88 296 A78 78 0 0 1 248 296" fill="none" stroke="#0F1B3D" stroke-width="7"/>
+  <path d="M364 296 A78 78 0 0 1 526 296" fill="none" stroke="#0F1B3D" stroke-width="7"/>
+  <rect x="72" y="222" width="70" height="54" rx="8" fill="#F9B417" stroke="#0F1B3D" stroke-width="5"/>
+  <path d="M78 236 h58 M78 250 h58" stroke="#0F1B3D" stroke-width="3" opacity="0.5"/>
+  <rect x="252" y="260" width="60" height="14" rx="7" fill="#0F1B3D" opacity="0.25"/>
+  <text x="300" y="382" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#0F1B3D" opacity="0.65">CARGO MAX</text>
+</svg>

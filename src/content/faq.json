@@ -1,0 +1,76 @@
+{
+  "faq": [
+    {
+      "q": "How much does a full charge cost?",
+      "a": "A full charge costs roughly Rs 12 to Rs 24 depending on the battery size. For example, a 1.44 kWh battery at Rs 8 per unit costs about Rs 12 for 60 km.",
+      "qGu": "એક ફુલ ચાર્જનો ખર્ચ કેટલો થાય?",
+      "aGu": "બેટરીના કદ પ્રમાણે એક ફુલ ચાર્જનો ખર્ચ લગભગ ₹12 થી ₹24 થાય છે. ઉદાહરણ તરીકે 1.44 kWh બેટરી ₹8 પ્રતિ યુનિટ દરે 60 કિમી માટે લગભગ ₹12 થાય."
+    },
+    {
+      "q": "What is the real riding range?",
+      "a": "Depending on the model, the real range is 60 km to 110 km. Load, speed, tyre pressure, terrain and riding style affect the range.",
+      "qGu": "વાસ્તવિક રાઇડિંગ રેન્જ કેટલી છે?",
+      "aGu": "મોડેલ પ્રમાણે વાસ્તવિક રેન્જ 60 કિમીથી 110 કિમી છે. વજન, સ્પીડ, ટાયર પ્રેશર, રસ્તાની સ્થિતિ અને રાઇડિંગ સ્ટાઇલ રેન્જ પર અસર કરે છે."
+    },
+    {
+      "q": "How long does charging take?",
+      "a": "A standard charger takes about 4 to 6 hours for a full charge. You can charge at any normal 5A home socket.",
+      "qGu": "ચાર્જિંગમાં કેટલો સમય લાગે છે?",
+      "aGu": "સામાન્ય ચાર્જરથી ફુલ ચાર્જ થવામાં લગભગ 4 થી 6 કલાક લાગે છે. તમે કોઈપણ સામાન્ય 5A ઘરના સોકેટમાં ચાર્જ કરી શકો છો."
+    },
+    {
+      "q": "Do I need a driving licence and registration?",
+      "a": "E-bikes up to 25 km/h and 250W are exempt from licence and registration under central rules. Higher-speed models need a licence, registration and insurance. We guide you through the full process.",
+      "qGu": "શું મને ડ્રાઇવિંગ લાઇસન્સ અને રજિસ્ટ્રેશનની જરૂર છે?",
+      "aGu": "25 કિમી/કલાક અને 250W સુધીની ઈ-બાઈકને કેન્દ્રીય નિયમો હેઠળ લાઇસન્સ અને રજિસ્ટ્રેશનમાંથી મુક્તિ છે. વધુ સ્પીડવાળા મોડેલ માટે લાઇસન્સ, રજિસ્ટ્રેશન અને વીમો જરૂરી છે. અમે આખી પ્રક્રિયામાં મદદ કરીએ છીએ."
+    },
+    {
+      "q": "Is any government subsidy available?",
+      "a": "Gujarat EV incentives and central schemes change from time to time. We check the current eligibility for your model and help with the paperwork.",
+      "qGu": "શું સરકારી સબસિડી મળે છે?",
+      "aGu": "ગુજરાત ઈવી પ્રોત્સાહન અને કેન્દ્રીય યોજનાઓ સમયાંતરે બદલાય છે. અમે તમારા મોડેલ માટે ચાલુ પાત્રતા ચકાસીએ છીએ અને દસ્તાવેજીકરણમાં મદદ કરીએ છીએ."
+    },
+    {
+      "q": "What does the warranty cover?",
+      "a": "Battery 3 years, motor 2 years, controller 2 years, charger 1 year, and 3 free services. Wear-and-tear parts like tyres and brake pads are not covered.",
+      "qGu": "વોરંટી શું આવરી લે છે?",
+      "aGu": "બેટરી 3 વર્ષ, મોટર 2 વર્ષ, કંટ્રોલર 2 વર્ષ, ચાર્જર 1 વર્ષ અને 3 મફત સર્વિસ. ટાયર અને બ્રેક પેડ જેવા વેર-એન્ડ-ટિયર પાર્ટ્સ વોરંટીમાં આવતા નથી."
+    },
+    {
+      "q": "Can I ride it in the rain?",
+      "a": "Yes. The battery pack, motor and controller are water-resistant. Avoid riding through deep waterlogging and do not pressure-wash the battery or motor.",
+      "qGu": "શું હું વરસાદમાં ચલાવી શકું?",
+      "aGu": "હા. બેટરી પેક, મોટર અને કંટ્રોલર વોટર-રેઝિસ્ટન્ટ છે. ઊંડા પાણીમાંથી ચલાવવાનું ટાળો અને બેટરી કે મોટર પર પ્રેશર વોશ ન કરો."
+    },
+    {
+      "q": "How does servicing work?",
+      "a": "We provide 3 free services and paid doorstep pickup/drop after that. Genuine parts and trained technicians are used for every repair.",
+      "qGu": "સર્વિસિંગ કેવી રીતે થાય છે?",
+      "aGu": "અમે 3 મફત સર્વિસ આપીએ છીએ અને તે પછી પેઇડ ડોરસ્ટેપ પિકઅપ/ડ્રોપ. દરેક રિપેરમાં અસલી પાર્ટ્સ અને તાલીમબદ્ધ ટેકનિશિયનનો ઉપયોગ થાય છે."
+    },
+    {
+      "q": "Can I exchange my old petrol scooter?",
+      "a": "Yes. We accept exchange of old petrol scooters and bikes. The exchange bonus is up to Rs 5,000 depending on the condition of the vehicle.",
+      "qGu": "શું હું જૂનું પેટ્રોલ સ્કૂટર એક્સચેન્જ કરી શકું?",
+      "aGu": "હા. અમે જૂના પેટ્રોલ સ્કૂટર અને બાઇકનું એક્સચેન્જ સ્વીકારીએ છીએ. વાહનની સ્થિતિ પ્રમાણે એક્સચેન્જ બોનસ ₹5,000 સુધી મળે છે."
+    },
+    {
+      "q": "Is finance or EMI available?",
+      "a": "Yes. Easy finance is available through HDFC Bank, ICICI Bank and State Bank of India. Select models qualify for 0% down payment (terms apply).",
+      "qGu": "શું ફાઇનાન્સ અથવા EMI મળે છે?",
+      "aGu": "હા. HDFC બેંક, ICICI બેંક અને સ્ટેટ બેંક ઓફ ઇન્ડિયા દ્વારા સરળ ફાઇનાન્સ ઉપલબ્ધ છે. પસંદગીના મોડેલ પર 0% ડાઉન પેમેન્ટ મળે છે (શરતો લાગુ)."
+    },
+    {
+      "q": "Can I take a test ride?",
+      "a": "Yes. A free test ride is available at our Bhavnagar showroom. Book a slot through the website form, phone or WhatsApp.",
+      "qGu": "શું હું ટેસ્ટ રાઇડ કરી શકું?",
+      "aGu": "હા. અમારા ભાવનગર શોરૂમમાં મફત ટેસ્ટ રાઇડ ઉપલબ્ધ છે. વેબસાઇટ ફોર્મ, ફોન અથવા વોટ્સએપથી સ્લોટ બુક કરો."
+    },
+    {
+      "q": "What documents are needed to buy?",
+      "a": "Aadhaar card, address proof and a passport-size photo. For finance, PAN card and bank details are also required.",
+      "qGu": "ખરીદી માટે કયા દસ્તાવેજ જરૂરી છે?",
+      "aGu": "આધાર કાર્ડ, એડ્રેસ પ્રૂફ અને પાસપોર્ટ સાઇઝ ફોટો. ફાઇનાન્સ માટે PAN કાર્ડ અને બેંક વિગતો પણ જરૂરી છે."
+    }
+  ]
+}

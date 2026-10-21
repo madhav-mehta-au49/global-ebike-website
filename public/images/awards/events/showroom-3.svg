@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1368 912" role="img" aria-label="VoltRide customer moment">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F9B417"/><stop offset="1" stop-color="#C98A1B"/></linearGradient></defs>
+  <rect width="1368" height="912" fill="url(#bg)"/>
+  <circle cx="1100" cy="180" r="220" fill="#ffffff" opacity="0.14"/>
+  <circle cx="1100" cy="180" r="150" fill="none" stroke="#071440" stroke-width="4" stroke-dasharray="12 16" opacity="0.35"/>
+  <g transform="translate(260 340) scale(1.22)">
+    <circle cx="170" cy="300" r="70" fill="#071440"/><circle cx="170" cy="300" r="52" fill="#fff"/><circle cx="170" cy="300" r="45" fill="none" stroke="#071440" stroke-width="6"/><circle cx="170" cy="300" r="16" fill="#071440"/>
+    <circle cx="440" cy="300" r="70" fill="#071440"/><circle cx="440" cy="300" r="52" fill="#fff"/><circle cx="440" cy="300" r="45" fill="none" stroke="#071440" stroke-width="6"/><circle cx="440" cy="300" r="16" fill="#071440"/>
+    <path d="M115 270 Q115 215 172 215 L282 215 Q314 215 330 244 L340 268 L204 268 Q152 268 130 292 Z" fill="#0b1f5c" stroke="#071440" stroke-width="6" stroke-linejoin="round"/>
+    <path d="M344 262 Q360 206 396 176 L428 160 L444 192 L414 238 Q398 264 372 276 Z" fill="#0b1f5c" stroke="#071440" stroke-width="6" stroke-linejoin="round"/>
+    <path d="M122 212 Q164 188 238 194 L244 216 L138 224 Z" fill="#071440"/>
+    <path d="M424 164 L462 144" stroke="#071440" stroke-width="10" stroke-linecap="round"/>
+    <circle cx="444" cy="198" r="15" fill="#FFD86B" stroke="#071440" stroke-width="5"/>
+    <rect x="246" y="250" width="94" height="36" rx="10" fill="#FFD86B" stroke="#071440" stroke-width="5"/>
+    <path d="M218 286 L338 286 Q354 286 354 302 L354 316 L208 316 Q196 316 196 302 Z" fill="#071440"/>
+  </g>
+  <text x="90" y="130" font-family="Arial, sans-serif" font-size="40" font-weight="800" fill="#071440" letter-spacing="6">VOLTRIDE E-BIKES</text>
+  <text x="90" y="190" font-family="Arial, sans-serif" font-size="26" font-weight="600" fill="#071440" letter-spacing="4">CUSTOMER MOMENT</text>
+  <text x="90" y="840" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#071440">Trusted by 500+ riders</text>
+</svg>

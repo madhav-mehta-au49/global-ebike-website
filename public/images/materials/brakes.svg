@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Disc brake">
+  <circle cx="190" cy="145" r="92" fill="#eaf4ff" stroke="#0F1B3D" stroke-width="8"/>
+  <circle cx="190" cy="145" r="68" fill="#ffffff" stroke="#0F1B3D" stroke-width="5"/>
+  <circle cx="190" cy="145" r="20" fill="#F9B417" stroke="#0F1B3D" stroke-width="5"/>
+  <g stroke="#0F1B3D" stroke-width="5" opacity="0.55">
+    <path d="M190 78 V108"/><path d="M190 182 V212"/><path d="M123 145 H153"/><path d="M227 145 H257"/>
+    <path d="M143 98 L164 119"/><path d="M216 171 L237 192"/><path d="M237 98 L216 119"/><path d="M164 171 L143 192"/>
+  </g>
+  <path d="M262 100 Q300 145 262 190 L240 178 Q268 145 240 112 Z" fill="#F9B417" stroke="#0F1B3D" stroke-width="5" stroke-linejoin="round"/>
+  <text x="200" y="272" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#0F1B3D">DISC BRAKES</text>
+</svg>

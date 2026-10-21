@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-label="VoltRide City Lite delivery in Bhavnagar">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#eaf4ff"/><stop offset="1" stop-color="#d6e9fb"/></linearGradient>
+    <linearGradient id="body" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#4CC46A"/><stop offset="1" stop-color="#1e8e3e"/></linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <circle cx="1000" cy="160" r="190" fill="#F9B417" opacity="0.16"/>
+  <circle cx="1000" cy="160" r="120" fill="none" stroke="#F9B417" stroke-width="3" stroke-dasharray="10 12" opacity="0.5"/>
+  <path d="M0 700 H1200" stroke="#0F1B3D" stroke-width="3" opacity="0.12"/>
+  <ellipse cx="600" cy="760" rx="360" ry="42" fill="#0F1B3D" opacity="0.08"/>
+  <g transform="translate(210 300) scale(1.3)">
+    <circle cx="170" cy="300" r="70" fill="#0F1B3D"/><circle cx="170" cy="300" r="52" fill="#fff"/><circle cx="170" cy="300" r="45" fill="none" stroke="#F9B417" stroke-width="6"/><circle cx="170" cy="300" r="16" fill="#0F1B3D"/>
+    <circle cx="440" cy="300" r="70" fill="#0F1B3D"/><circle cx="440" cy="300" r="52" fill="#fff"/><circle cx="440" cy="300" r="45" fill="none" stroke="#F9B417" stroke-width="6"/><circle cx="440" cy="300" r="16" fill="#0F1B3D"/>
+    <path d="M115 270 Q115 215 172 215 L282 215 Q314 215 330 244 L340 268 L204 268 Q152 268 130 292 Z" fill="url(#body)" stroke="#0F1B3D" stroke-width="6" stroke-linejoin="round"/>
+    <path d="M344 262 Q360 206 396 176 L428 160 L444 192 L414 238 Q398 264 372 276 Z" fill="url(#body)" stroke="#0F1B3D" stroke-width="6" stroke-linejoin="round"/>
+    <path d="M122 212 Q164 188 238 194 L244 216 L138 224 Z" fill="#0F1B3D"/>
+    <path d="M424 164 L462 144" stroke="#0F1B3D" stroke-width="10" stroke-linecap="round"/>
+    <circle cx="444" cy="198" r="15" fill="#FFD86B" stroke="#0F1B3D" stroke-width="5"/>
+    <rect x="246" y="250" width="94" height="36" rx="10" fill="#FFD86B" stroke="#0F1B3D" stroke-width="5"/>
+    <path d="M218 286 L338 286 Q354 286 354 302 L354 316 L208 316 Q196 316 196 302 Z" fill="#0F1B3D"/>
+  </g>
+  <text x="80" y="120" font-family="Arial, sans-serif" font-size="30" font-weight="800" fill="#0F1B3D" letter-spacing="6">VOLTRIDE</text>
+  <text x="80" y="160" font-family="Arial, sans-serif" font-size="18" font-weight="600" fill="#1e8e3e" letter-spacing="3">CITY LITE · 60 KM</text>
+  <text x="80" y="820" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#0F1B3D">Delivered in Bhavnagar</text>
+</svg>

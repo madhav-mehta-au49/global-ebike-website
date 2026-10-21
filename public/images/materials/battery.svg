@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Lithium-ion battery pack">
+  <rect x="60" y="80" width="280" height="150" rx="24" fill="#eaf4ff" stroke="#0F1B3D" stroke-width="8"/>
+  <rect x="90" y="110" width="220" height="90" rx="12" fill="#ffffff" stroke="#0F1B3D" stroke-width="5"/>
+  <path d="M120 110 V200 M160 110 V200 M200 110 V200 M240 110 V200 M280 110 V200" stroke="#0F1B3D" stroke-width="4" opacity="0.35"/>
+  <rect x="96" y="62" width="28" height="20" rx="6" fill="#F9B417" stroke="#0F1B3D" stroke-width="5"/>
+  <rect x="276" y="62" width="28" height="20" rx="6" fill="#F9B417" stroke="#0F1B3D" stroke-width="5"/>
+  <path d="M210 118 L180 160 H204 L190 198 L236 148 H210 Z" fill="#F9B417" stroke="#0F1B3D" stroke-width="4" stroke-linejoin="round"/>
+  <text x="200" y="272" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#0F1B3D">BATTERY PACK</text>
+</svg>

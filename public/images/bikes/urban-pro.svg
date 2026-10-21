@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" role="img" aria-label="VoltRide Urban Pro electric scooter">
+  <defs>
+    <linearGradient id="body" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#12307f"/>
+      <stop offset="1" stop-color="#071440"/>
+    </linearGradient>
+  </defs>
+  <ellipse cx="300" cy="358" rx="215" ry="16" fill="#0F1B3D" opacity="0.12"/>
+  <circle cx="170" cy="300" r="70" fill="#0F1B3D"/><circle cx="170" cy="300" r="52" fill="#ffffff"/><circle cx="170" cy="300" r="45" fill="none" stroke="#4CC46A" stroke-width="6"/><circle cx="170" cy="300" r="16" fill="#0F1B3D"/>
+  <circle cx="440" cy="300" r="70" fill="#0F1B3D"/><circle cx="440" cy="300" r="52" fill="#ffffff"/><circle cx="440" cy="300" r="45" fill="none" stroke="#4CC46A" stroke-width="6"/><circle cx="440" cy="300" r="16" fill="#0F1B3D"/>
+  <path d="M110 268 Q110 212 170 212 L284 212 Q318 212 334 244 L344 268 L202 268 Q150 268 126 294 Z" fill="url(#body)" stroke="#0F1B3D" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M348 262 Q364 202 400 172 L432 156 L448 190 L418 238 Q402 264 376 276 Z" fill="url(#body)" stroke="#0F1B3D" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M118 210 Q162 184 240 190 L246 214 L134 222 Z" fill="#071440"/>
+  <path d="M428 160 L466 140" stroke="#071440" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="470" cy="138" r="7" fill="#FFD86B"/>
+  <circle cx="448" cy="196" r="15" fill="#FFD86B" stroke="#0F1B3D" stroke-width="5"/>
+  <circle cx="448" cy="196" r="26" fill="#FFD86B" opacity="0.18"/>
+  <rect x="246" y="250" width="96" height="36" rx="10" fill="#F9B417" stroke="#0F1B3D" stroke-width="5"/>
+  <path d="M264 268 h18 l-6 10 h14 l-22 20 6 -18 h-12 z" fill="#071440"/>
+  <path d="M216 286 L340 286 Q356 286 356 302 L356 316 L206 316 Q194 316 194 302 Z" fill="#071440"/>
+  <path d="M90 296 A78 78 0 0 1 250 296" fill="none" stroke="#F9B417" stroke-width="5"/>
+  <path d="M360 296 A78 78 0 0 1 520 296" fill="none" stroke="#F9B417" stroke-width="5"/>
+  <rect x="252" y="260" width="60" height="14" rx="7" fill="#FFD86B" opacity="0.4"/>
+  <text x="300" y="382" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#0F1B3D" opacity="0.65">URBAN PRO</text>
+</svg>

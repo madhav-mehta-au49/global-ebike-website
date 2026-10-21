@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Digital display">
+  <rect x="80" y="55" width="240" height="180" rx="28" fill="#0F1B3D" stroke="#0F1B3D" stroke-width="8"/>
+  <rect x="100" y="75" width="200" height="140" rx="18" fill="#eaf4ff"/>
+  <text x="200" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="54" font-weight="800" fill="#0F1B3D">60</text>
+  <text x="200" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#1e8e3e">KM/H</text>
+  <rect x="120" y="192" width="160" height="12" rx="6" fill="#d6e9fb"/>
+  <rect x="120" y="192" width="112" height="12" rx="6" fill="#4CC46A"/>
+  <text x="200" y="272" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#0F1B3D">DIGITAL DISPLAY</text>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Founder portrait">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#12307f"/><stop offset="1" stop-color="#071440"/></linearGradient></defs>
+  <rect width="400" height="400" fill="url(#bg)"/>
+  <circle cx="200" cy="200" r="130" fill="none" stroke="#F9B417" stroke-width="3" stroke-dasharray="8 10" opacity="0.45"/>
+  <circle cx="200" cy="160" r="62" fill="#eaf4ff"/>
+  <path d="M80 340 Q90 250 200 250 Q310 250 320 340 Z" fill="#eaf4ff"/>
+  <circle cx="200" cy="160" r="62" fill="none" stroke="#F9B417" stroke-width="5"/>
+  <path d="M140 145 Q200 95 260 145 Q250 120 200 112 Q150 120 140 145 Z" fill="#0F1B3D"/>
+  <text x="200" y="375" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" font-weight="800" fill="#FFD86B">FOUNDER</text>
+</svg>

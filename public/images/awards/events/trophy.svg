@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-label="Best EV Showroom 2026 trophy">
+  <defs>
+    <radialGradient id="bg" cx="0.5" cy="0.42" r="0.65"><stop offset="0" stop-color="#12307f"/><stop offset="1" stop-color="#071440"/></radialGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFD86B"/><stop offset="1" stop-color="#C98A1B"/></linearGradient>
+  </defs>
+  <rect width="600" height="600" fill="url(#bg)"/>
+  <circle cx="300" cy="300" r="240" fill="none" stroke="#F9B417" stroke-width="4" stroke-dasharray="12 14" opacity="0.5"/>
+  <circle cx="300" cy="300" r="210" fill="none" stroke="#4CC46A" stroke-width="2" opacity="0.35"/>
+  <path d="M220 150 H380 V260 Q380 330 300 350 Q220 330 220 260 Z" fill="url(#gold)" stroke="#071440" stroke-width="6"/>
+  <path d="M220 175 H180 Q150 175 150 210 Q150 250 220 260" fill="none" stroke="url(#gold)" stroke-width="14"/>
+  <path d="M380 175 H420 Q450 175 450 210 Q450 250 380 260" fill="none" stroke="url(#gold)" stroke-width="14"/>
+  <rect x="280" y="345" width="40" height="60" fill="url(#gold)" stroke="#071440" stroke-width="5"/>
+  <rect x="220" y="405" width="160" height="34" rx="10" fill="url(#gold)" stroke="#071440" stroke-width="5"/>
+  <path d="M300 190 l12 26 28 3 -21 19 6 28 -25 -14 -25 14 6 -28 -21 -19 28 -3 z" fill="#071440"/>
+  <text x="300" y="510" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="800" fill="#FFD86B" letter-spacing="3">BEST EV</text>
+  <text x="300" y="550" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#ffffff" letter-spacing="3">SHOWROOM 2026</text>
+</svg>

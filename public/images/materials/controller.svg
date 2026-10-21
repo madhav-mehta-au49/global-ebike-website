@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Smart controller">
+  <rect x="70" y="80" width="260" height="150" rx="22" fill="#eaf4ff" stroke="#0F1B3D" stroke-width="8"/>
+  <rect x="100" y="110" width="200" height="90" rx="12" fill="#ffffff" stroke="#0F1B3D" stroke-width="4"/>
+  <g stroke="#0F1B3D" stroke-width="4" fill="none"><path d="M120 140 H170 V170 H220"/><path d="M120 180 H150 V155 H190"/><path d="M230 130 H270 V160"/></g>
+  <circle cx="270" cy="180" r="8" fill="#F9B417" stroke="#0F1B3D" stroke-width="4"/>
+  <g stroke="#4CC46A" stroke-width="7" stroke-linecap="round"><path d="M70 120 H38"/><path d="M70 150 H38"/><path d="M70 180 H38"/><path d="M330 120 H362"/><path d="M330 150 H362"/><path d="M330 180 H362"/></g>
+  <text x="200" y="272" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#0F1B3D">SMART CONTROLLER</text>
+</svg>

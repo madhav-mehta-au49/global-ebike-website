@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="LED lighting">
+  <path d="M110 160 Q110 90 180 90 L240 90 Q300 90 300 160 L300 190 Q300 210 280 210 L130 210 Q110 210 110 190 Z" fill="#eaf4ff" stroke="#0F1B3D" stroke-width="8"/>
+  <circle cx="205" cy="150" r="44" fill="#FFD86B" stroke="#0F1B3D" stroke-width="6"/>
+  <circle cx="205" cy="150" r="20" fill="#ffffff"/>
+  <g stroke="#F9B417" stroke-width="6" stroke-linecap="round"><path d="M320 120 L360 100"/><path d="M325 150 H370"/><path d="M320 180 L360 200"/></g>
+  <text x="200" y="272" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#0F1B3D">LED LIGHTING</text>
+</svg>

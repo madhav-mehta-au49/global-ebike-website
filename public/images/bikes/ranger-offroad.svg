@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" role="img" aria-label="VoltRide Ranger Off-road electric bike">
+  <defs>
+    <linearGradient id="body" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1e8e3e"/>
+      <stop offset="1" stop-color="#071440"/>
+    </linearGradient>
+  </defs>
+  <ellipse cx="300" cy="358" rx="225" ry="16" fill="#0F1B3D" opacity="0.12"/>
+  <circle cx="165" cy="300" r="76" fill="#0F1B3D"/><circle cx="165" cy="300" r="58" fill="#111827"/><circle cx="165" cy="300" r="48" fill="none" stroke="#F9B417" stroke-width="8" stroke-dasharray="10 6"/><circle cx="165" cy="300" r="16" fill="#F9B417"/>
+  <circle cx="445" cy="300" r="76" fill="#0F1B3D"/><circle cx="445" cy="300" r="58" fill="#111827"/><circle cx="445" cy="300" r="48" fill="none" stroke="#F9B417" stroke-width="8" stroke-dasharray="10 6"/><circle cx="445" cy="300" r="16" fill="#F9B417"/>
+  <path d="M100 266 Q100 206 164 206 L288 206 Q324 206 342 244 L352 268 L198 268 Q146 268 120 294 Z" fill="url(#body)" stroke="#0F1B3D" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M354 262 Q372 194 410 162 L444 146 L460 184 L428 238 Q412 266 384 280 Z" fill="url(#body)" stroke="#0F1B3D" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M106 204 Q158 176 244 182 L250 212 L122 218 Z" fill="#071440"/>
+  <path d="M436 150 L478 128" stroke="#071440" stroke-width="11" stroke-linecap="round"/>
+  <circle cx="482" cy="126" r="8" fill="#F9B417"/>
+  <circle cx="460" cy="190" r="16" fill="#ffffff" stroke="#0F1B3D" stroke-width="5"/>
+  <rect x="244" y="246" width="100" height="40" rx="10" fill="#F9B417" stroke="#0F1B3D" stroke-width="5"/>
+  <path d="M262 266 h18 l-6 10 h14 l-22 20 6 -18 h-12 z" fill="#071440"/>
+  <path d="M212 286 L344 286 Q360 286 360 302 L360 318 L202 318 Q190 318 190 302 Z" fill="#071440"/>
+  <path d="M84 296 A82 82 0 0 1 246 296" fill="none" stroke="#F9B417" stroke-width="5"/>
+  <path d="M364 296 A82 82 0 0 1 526 296" fill="none" stroke="#F9B417" stroke-width="5"/>
+  <rect x="252" y="258" width="62" height="16" rx="8" fill="#071440" opacity="0.3"/>
+  <text x="300" y="382" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#0F1B3D" opacity="0.7">RANGER OFF-ROAD</text>
+</svg>

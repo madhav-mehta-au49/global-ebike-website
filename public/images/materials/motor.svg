@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="BLDC hub motor">
+  <circle cx="200" cy="145" r="85" fill="#eaf4ff" stroke="#0F1B3D" stroke-width="8"/>
+  <circle cx="200" cy="145" r="58" fill="#ffffff" stroke="#0F1B3D" stroke-width="5"/>
+  <circle cx="200" cy="145" r="18" fill="#F9B417" stroke="#0F1B3D" stroke-width="5"/>
+  <g stroke="#0F1B3D" stroke-width="6" stroke-linecap="round">
+    <path d="M200 87 V60"/><path d="M200 203 V230"/><path d="M142 145 H115"/><path d="M258 145 H285"/>
+    <path d="M159 104 L140 85"/><path d="M241 186 L260 205"/><path d="M241 104 L260 85"/><path d="M159 186 L140 205"/>
+  </g>
+  <g stroke="#F9B417" stroke-width="5" stroke-linecap="round"><path d="M170 145 H230"/><path d="M200 115 V175"/></g>
+  <text x="200" y="272" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#0F1B3D">BLDC MOTOR</text>
+</svg>

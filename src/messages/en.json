@@ -1,0 +1,305 @@
+{
+  "Meta": {
+    "title": "VoltRide E-Bikes – Electric Bike Showroom in Bhavnagar & Talaja",
+    "description": "Premium electric bikes in Bhavnagar and Talaja. 60–110 km range, 3-year battery warranty, free test ride, easy finance and exchange offers. Visit VoltRide E-Bikes."
+  },
+  "Ticker": {
+    "items": [
+      "Free Test Ride Available",
+      "0% Down Payment EMI",
+      "Exchange Bonus up to ₹5,000"
+    ]
+  },
+  "Nav": {
+    "home": "Home",
+    "about": "About",
+    "packages": "Models",
+    "services": "Services",
+    "subsidy": "Offers",
+    "calculator": "Calculator",
+    "projects": "Gallery",
+    "awards": "Awards",
+    "reviews": "Reviews",
+    "contact": "Contact",
+    "freeSiteVisit": "Book Test Ride",
+    "getQuote": "Book Test Ride",
+    "langToggle": "ગુજરાતી"
+  },
+  "Hero": {
+    "badge": "Bhavnagar's trusted e-bike showroom",
+    "title": "Ride Electric. Save Every Day.",
+    "subtitle": "Premium electric bikes with 60–110 km range, 3-year battery warranty and easy finance. Test ride today at our Bhavnagar showroom.",
+    "ctaQuote": "Book Test Ride",
+    "ctaWhatsapp": "WhatsApp Us",
+    "ctaPackages": "View Models",
+    "trustChips": ["Range up to 110 km", "0% Down Payment", "3-Year Battery Warranty", "Best EV Showroom 2026"],
+    "seal": "Test Ride • Finance • Service",
+    "billCardTitle": "Petrol vs Electric",
+    "billCardFrom": "₹3,200 / month petrol",
+    "billCardTo": "₹180 / month charging",
+    "billCardSaved": "You save every month",
+    "formTitle": "Book a free test ride",
+    "formName": "Name",
+    "formPhone": "Phone",
+    "formArea": "Village / Area",
+    "formBill": "Daily commute (km)",
+    "formSubmit": "Book My Test Ride"
+  },
+  "Stats": {
+    "items": [
+      { "value": 500, "suffix": "+", "label": "Happy Riders" },
+      { "value": 2, "suffix": "", "label": "Showrooms" },
+      { "value": 3, "suffix": "", "label": "Year Battery Warranty" },
+      { "value": 110, "suffix": " km", "label": "Max Range" },
+      { "value": 24, "suffix": "/7", "label": "Roadside Support" }
+    ]
+  },
+  "WhyUs": {
+    "badge": "Why Choose Us",
+    "title": "Why VoltRide E-Bikes",
+    "subtitle": "An honest, complete electric bike experience for Bhavnagar and Talaja.",
+    "items": [
+      { "title": "60–110 km Real Range", "desc": "Ride a full week on a single charge." },
+      { "title": "3-Year Battery Warranty", "desc": "Genuine lithium-ion packs with written warranty." },
+      { "title": "0% Down Payment", "desc": "Easy EMI on select models — terms apply." },
+      { "title": "Free Test Ride", "desc": "Try every model before you decide." },
+      { "title": "Genuine Components", "desc": "LG cells, BLDC motor and smart controller." },
+      { "title": "Doorstep Service", "desc": "Pickup and drop for service in Bhavnagar." },
+      { "title": "Exchange Bonus", "desc": "Up to ₹5,000 for your old petrol scooter." },
+      { "title": "RTO & Insurance Help", "desc": "Complete registration and insurance support." }
+    ]
+  },
+  "Packages": {
+    "badge": "Models & Pricing",
+    "title": "Choose Your VoltRide",
+    "subtitle": "Transparent on-road pricing. Battery, charger, warranty and registration help included.",
+    "colModel": "Model",
+    "colRange": "Range",
+    "colBattery": "Battery",
+    "colPrice": "MRP",
+    "colOffer": "Offer Price",
+    "cta": "Book This Model",
+    "mostPopular": "Most Popular",
+    "bestValue": "Best Value",
+    "bestSeller": "Best Seller",
+    "notes": [
+      "Prices are ex-showroom Bhavnagar and include a standard charger.",
+      "Registration, insurance and accessories are extra for high-speed models.",
+      "Exchange bonus up to ₹5,000 on old petrol scooters.",
+      "Final price is confirmed after test ride and finance approval."
+    ],
+    "lastUpdated": "Prices last updated",
+    "paymentTitle": "Booking & Payment",
+    "paymentTerms": [
+      "₹2,000 booking amount per bike",
+      "Balance at the time of delivery",
+      "Price valid for 15 days"
+    ],
+    "docsTitle": "Documents Needed",
+    "docs": ["Aadhaar Card", "Address Proof", "Passport-size Photo"],
+    "structureNote": "Free test ride and home delivery within Bhavnagar"
+  },
+  "Bom": {
+    "badge": "Inside the Bike",
+    "title": "What's Inside Your E-Bike",
+    "subtitle": "Genuine, warranty-backed components on every model.",
+    "trustedBrands": "Trusted Component Partners",
+    "tableHead": "Component",
+    "tableBrand": "Brand / Spec",
+    "cta": "Get Full Specifications"
+  },
+  "Warranty": {
+    "badge": "Assurance",
+    "title": "Warranty & Free Service",
+    "subtitle": "Every VoltRide is covered long after delivery.",
+    "items": [
+      { "years": 3, "title": "Battery Pack", "desc": "3-year warranty on the lithium-ion battery." },
+      { "years": 2, "title": "BLDC Motor", "desc": "2-year warranty on the hub motor." },
+      { "years": 2, "title": "Smart Controller", "desc": "2-year warranty on the controller." },
+      { "years": 1, "title": "Charger", "desc": "1-year warranty on the charger." },
+      { "years": 1, "title": "Free Service", "desc": "3 free services in the first year." }
+    ]
+  },
+  "Services": {
+    "badge": "Services",
+    "title": "Our Services",
+    "subtitle": "Everything for your e-bike under one roof.",
+    "items": [
+      { "title": "New E-Bike Sales", "desc": "City, sport, family and cargo models." },
+      { "title": "Free Test Ride", "desc": "Try before you buy at our showroom." },
+      { "title": "Easy Finance & EMI", "desc": "0% down payment on select models." },
+      { "title": "Exchange Offer", "desc": "Up to ₹5,000 for your old scooter." },
+      { "title": "Service & Repair", "desc": "Trained technicians and genuine parts." },
+      { "title": "Battery Health Check", "desc": "Free battery diagnostics and range test." },
+      { "title": "Doorstep Pickup & Drop", "desc": "Service without leaving your home." },
+      { "title": "RTO & Insurance Help", "desc": "Registration and insurance paperwork." }
+    ],
+    "enquire": "Enquire"
+  },
+  "Subsidy": {
+    "badge": "Offers & Benefits",
+    "title": "Current Offers",
+    "subtitle": "Save more with exchange, corporate and festive benefits.",
+    "slabTitle": "Offer Slabs",
+    "slab1": "Exchange Bonus",
+    "slab2": "Corporate / Student",
+    "slab3": "Festive Benefit",
+    "maxTag": "Maximum",
+    "requirementsTitle": "Who Can Avail",
+    "requirements": ["Any old petrol scooter", "Valid student or corporate ID", "Booking during the offer period", "Finance on select models"],
+    "note": "Offers are valid for a limited period and cannot be combined. The final discount is confirmed at booking.",
+    "disclaimer": "Amounts and eligibility are subject to showroom terms.",
+    "stepsTitle": "How to Claim",
+    "steps": ["Book a test ride", "Share old vehicle / ID proof", "Get instant discount", "Complete payment or EMI", "Take delivery"]
+  },
+  "Calculator": {
+    "badge": "Savings Calculator",
+    "title": "Petrol vs Electric Calculator",
+    "subtitle": "Enter your daily commute and see how much you save with an e-bike.",
+    "dailyKm": "Daily Commute (km)",
+    "petrolPrice": "Petrol Price (₹/L)",
+    "electricityRate": "Electricity Rate (₹/unit)",
+    "calculate": "Calculate My Savings",
+    "resultTitle": "Your Recommended E-Bike",
+    "recommended": "Recommended Model",
+    "range": "Range",
+    "battery": "Battery",
+    "monthlyKm": "Monthly Distance",
+    "petrolCost": "Monthly Petrol Cost",
+    "electricityCost": "Monthly Charging Cost",
+    "monthlySavings": "Monthly Savings",
+    "payback": "Payback Period",
+    "savings5": "5-Year Savings",
+    "co2": "CO₂ Saved / Year",
+    "sendWhatsapp": "Send this estimate on WhatsApp",
+    "note": "Estimate only. Actual savings depend on riding style and electricity tariff.",
+    "placeholderKm": "e.g. 30"
+  },
+  "Loan": {
+    "badge": "Easy Finance",
+    "title": "0% Down Payment EMI",
+    "subtitle": "Easy finance with HDFC Bank, ICICI Bank and State Bank of India.",
+    "terms": "Terms apply",
+    "emiTitle": "Simple EMI Calculator",
+    "emiAmount": "Loan Amount (₹)",
+    "emiTenure": "Tenure (months)",
+    "emiRate": "Interest Rate (%/yr)",
+    "emiResult": "Estimated Monthly EMI",
+    "stepsTitle": "Steps to Apply",
+    "steps": ["Choose your model", "Share documents", "Bank approves loan", "Take delivery"]
+  },
+  "HowItWorks": {
+    "badge": "Test Ride",
+    "title": "How It Works",
+    "subtitle": "Six simple steps from test ride to delivery.",
+    "steps": [
+      "Book a Free Test Ride",
+      "Choose Your Model",
+      "Finance & Exchange Help",
+      "Document Verification",
+      "Delivery & Registration",
+      "Free Service & Support"
+    ]
+  },
+  "Gallery": {
+    "badge": "Our Riders",
+    "title": "Recently Delivered",
+    "subtitle": "Real bikes delivered by VoltRide across Bhavnagar and Talaja.",
+    "filters": ["All", "Bhavnagar", "Talaja", "City", "Sport", "Family", "Cargo"],
+    "elevated": "Every bike delivered with a full charge and free accessories",
+    "recentTalaja": "Recent Deliveries in Talaja",
+    "viewAll": "View Full Gallery"
+  },
+  "Awards": {
+    "badge": "Recognition",
+    "title": "Awards & Recognition",
+    "awardText": "Best EV Showroom 2026 award, presented by the Gujarat EV Dealers Association to Mr. Demo Founder, VoltRide E-Bikes, for outstanding customer service and contribution to clean mobility in Bhavnagar.",
+    "badgeText": "Recognised by Gujarat EV Dealers Association",
+    "eventPhotos": "Showroom Moments",
+    "newspaper": "News Coverage"
+  },
+  "Testimonials": {
+    "badge": "Reviews",
+    "title": "What Our Riders Say",
+    "ratingLabel": "based on 500+ happy deliveries",
+    "systemLabel": "model"
+  },
+  "About": {
+    "badge": "About Us",
+    "title": "About VoltRide E-Bikes",
+    "storyTitle": "Our Story",
+    "story": "VoltRide E-Bikes is Bhavnagar's trusted electric bike showroom. Built on 500+ happy deliveries, trained technicians and a promise of honest pricing — from test ride and finance to service and battery support.",
+    "missionTitle": "Our Mission",
+    "mission": "Clean, affordable electric mobility for every household in Bhavnagar district.",
+    "visionTitle": "Our Vision",
+    "vision": "A quieter, greener Bhavnagar with an e-bike in every home.",
+    "values": ["Quality", "Honesty", "Service", "Savings"],
+    "foundersTitle": "Meet Our Founders",
+    "founder1Name": "Mr. Demo Founder",
+    "founder1Role": "Founder",
+    "founder1Bio": "Best EV Showroom award winner, leading customer trust and service quality.",
+    "founder2Name": "Mr. Demo Co-Founder",
+    "founder2Role": "Co-Founder",
+    "founder2Bio": "Heading operations, finance and after-sales support.",
+    "call": "Call",
+    "whatsapp": "WhatsApp"
+  },
+  "Areas": {
+    "badge": "Coverage",
+    "title": "Areas We Serve",
+    "subtitle": "Test rides, delivery and service across Bhavnagar city and nearby villages.",
+    "talaja": "Talaja",
+    "bhavnagar": "Bhavnagar City",
+    "villages": "Nearby Villages",
+    "places": ["Kaliyabid", "Bharatnagar", "Talaja Town", "Sihor", "Palitana Road", "Umarala", "Nari", "Ghogha"]
+  },
+  "Faq": {
+    "badge": "FAQ",
+    "title": "Frequently Asked Questions",
+    "subtitle": "Quick answers about range, charging, warranty and finance."
+  },
+  "Contact": {
+    "badge": "Contact",
+    "title": "Book Your Free Test Ride",
+    "subtitle": "Visit the showroom or book a slot online — no pressure.",
+    "formTitle": "Book a Test Ride",
+    "name": "Name",
+    "phone": "Phone Number",
+    "area": "Village / Area",
+    "model": "Interested Model",
+    "dailyKm": "Daily Commute (km)",
+    "testRideDate": "Preferred Test Ride Date",
+    "message": "Message",
+    "send": "Book My Test Ride",
+    "reply": "We reply within a few hours.",
+    "notSure": "Not sure",
+    "founderCard": "Founder",
+    "coFounderCard": "Co-Founder",
+    "call": "Call",
+    "whatsapp": "WhatsApp",
+    "hours": "Open: 10:00 AM – 8:00 PM, all days",
+    "visitTitle": "Visit Our Showroom",
+    "getDirections": "Get Directions",
+    "quickTitle": "Quick Contact",
+    "emailUs": "Email Us"
+  },
+  "Cta": {
+    "title": "Ready to Switch to Electric?",
+    "call": "Call Now",
+    "whatsapp": "WhatsApp Us",
+    "quote": "Book Test Ride"
+  },
+  "Footer": {
+    "about": "Electric bike sales, test rides, finance, exchange and after-sales service for Bhavnagar and Talaja.",
+    "quickLinks": "Quick Links",
+    "contact": "Contact",
+    "areas": "Service Areas",
+    "followUs": "Follow Us",
+    "rights": "All rights reserved."
+  },
+  "MobileBar": {
+    "call": "Call",
+    "whatsapp": "WhatsApp",
+    "quote": "Book Ride"
+  }
+}

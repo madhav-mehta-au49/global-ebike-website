@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Comfort seat">
+  <path d="M80 190 Q80 130 140 120 L260 110 Q330 108 340 150 L345 178 Q348 198 326 200 L100 200 Q80 200 80 190 Z" fill="#eaf4ff" stroke="#0F1B3D" stroke-width="8"/>
+  <path d="M110 160 Q150 140 250 138 L320 146" fill="none" stroke="#F9B417" stroke-width="10" stroke-linecap="round"/>
+  <path d="M100 200 L100 230 M330 200 L330 230" stroke="#0F1B3D" stroke-width="8" stroke-linecap="round"/>
+  <text x="200" y="272" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#0F1B3D">COMFORT SEAT</text>
+</svg>
